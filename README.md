@@ -81,5 +81,5 @@ This project uses **3 SQL tables**:
 -->How to Run  
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Harvard-Artifacts-Collection.git
+   git clone https://github.com/Gobishree/Harvard-Artifacts-Collection.git
    cd Harvard-Artifacts-Collection
